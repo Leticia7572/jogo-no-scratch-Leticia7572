@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SWolOC7V)
 # 🏆 Jogo no Scratch
 
 Chegou a hora de colocar a mão na massa! Agora que vimos como a lógica funciona e como o Scratch facilita as coisas, o desafio é criar o seu próprio jogo.
@@ -40,7 +41,7 @@ Para realizar a entrega do seu desafio, siga os passos abaixo:
 5. **Finalize:** Faça o **Commit** das alterações com a mensagem "Entrega do Jogo no Scratch".
 
 ### 🔗 Link da minha entrega:
-> **COLE O LINK DO SEU JOGO AQUI:** [ESCREVA O LINK AQUI]
+> **COLE O LINK DO SEU JOGO AQUI:** [[ESCREVA O LINK AQUI](https://scratch.mit.edu/projects/1291219894/)]
 
 ---
 *Dica: Lembre-se que o código será avaliado pela organização, então tente deixar seus blocos bem arrumados!*
